@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run trading-again-app",
       "request": "launch",
       "type": "node-terminal"
     }

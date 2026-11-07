@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "displayName": "Linked App Template",
+  "name": "trading-again-app",
+  "displayName": "Trading again",
   "description": "Linked app — base repository for new Linked apps.",
   "version": "0.1.0",
   "private": true,
